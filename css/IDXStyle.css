@@ -42,6 +42,7 @@ header {
         background-color: #1c1c1c;
         padding: 2rem;
         box-shadow: 0 0 0 100vmax rgba(0, 0, 0, .5);
+        height: 430px;
     }
     .abrirmenu,
     .cerrarmenu {
@@ -50,6 +51,7 @@ header {
         border: none;
         font-size: 25px;
         cursor: pointer;
+        margin-right: 1rem;
     }
     .cerrarmenu{
         color: #ececec;
@@ -112,7 +114,4 @@ header {
     -o-border-radius: 5px;
     
 }
-.nav_bar ul li a{
-    text-decoration: none;
-    color: black;
-}
+
